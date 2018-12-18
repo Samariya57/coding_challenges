@@ -1,3 +1,5 @@
-# Repository for Coding Challenges for weeks 6-12
+# Repository for Coding Challenges
 
 ## [Transactions in a bank](https://github.com/Samariya57/coding_challenges/blob/master/transactions.md)
+
+## [Text similarity](https://github.com/Samariya57/coding_challenges/blob/master/text_similarity.md)
